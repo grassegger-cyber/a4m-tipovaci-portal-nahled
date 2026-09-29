@@ -1,0 +1,1 @@
+import{it as e}from"./CVYe-ZO4.js";var t=e({pocet:0});export{t};

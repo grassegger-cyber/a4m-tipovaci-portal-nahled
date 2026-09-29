@@ -1,0 +1,1 @@
+import{a as e,o as t}from"./CVYe-ZO4.js";import"./xihTtKlq.js";import{r as n}from"./0F2K0Nex.js";var r=new Set([`$$slots`,`$$events`,`$$legacy`]);function i(i,a){let o=e(a,r),s={name:`chevron-right`,size:24,node:[[`path`,{d:`m9 18 6-6-6-6`}]]};n(i,t(()=>o,{get icon(){return s}}))}export{i as t};
